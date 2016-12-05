@@ -1,0 +1,5 @@
+/Users/patrick/Google Drive/coding/csharp/first_csharp/bin/Debug/netcoreapp1.0/first_csharp.dll
+/Users/patrick/Google Drive/coding/csharp/first_csharp/bin/Debug/netcoreapp1.0/first_csharp.pdb
+/Users/patrick/Google Drive/coding/csharp/first_csharp/obj/Debug/netcoreapp1.0/first_csharp.AssemblyInfo.cs
+/Users/patrick/Google Drive/coding/csharp/first_csharp/obj/Debug/netcoreapp1.0/first_csharp.dll
+/Users/patrick/Google Drive/coding/csharp/first_csharp/obj/Debug/netcoreapp1.0/first_csharp.pdb
